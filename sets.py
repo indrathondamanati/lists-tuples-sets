@@ -87,6 +87,10 @@ print(std)
 new_std = std.copy()
 print(new_std)
 
+#order of evaluation
+result = (10+3)*3
+print(result)
+
 
 
 
